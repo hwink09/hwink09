@@ -26,7 +26,7 @@
 const hwinkdev = {
     pronouns: "He" | "Him",
     code: ["JavaScript", "TypeScript", "HTML", "CSS"],
-    askMeAbout: ["web dev", "tech", "app dev", "UI/UX"],
+    askMeAbout: ["web developer", "tech", "app dev", "UI/UX"],
     technologies: {
         frontEnd: {
             js: ["React", "Redux", "Vue.js"],
