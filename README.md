@@ -67,7 +67,7 @@ const hwinkdev = {
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+  <!-- <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" /> -->
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
   <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
   <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />
@@ -93,13 +93,21 @@ const hwinkdev = {
 
 ## 📊 GitHub Statistics
 
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hwink09&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=61DAFB&icon_color=61DAFB&text_color=FFFFFF&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
-  <!-- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hwink09&theme=react&hide_border=true&background=1F222E&stroke=61DAFB&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak" /> -->
+<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=hwink09&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=61DAFB&icon_color=61DAFB&text_color=FFFFFF&rank_icon=github&include_all_commits=true" 
+    alt="GitHub Stats" 
+    height="180px" 
+  />
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwink09&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=61DAFB&text_color=FFFFFF&langs_count=8&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda" 
+    alt="Top Languages" 
+    height="180px" 
+  />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwink09&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=61DAFB&text_color=FFFFFF&langs_count=8&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda" alt="Top Languages" />
+  <!-- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hwink09&theme=react&hide_border=true&background=1F222E&stroke=61DAFB&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak" /> -->
   <!-- <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=hwink09&theme=react-dark&hide_border=true&bg_color=1F222E&color=61DAFB&line=61DAFB&point=FFFFFF" alt="Contribution Graph" /> -->
 </div>
 
