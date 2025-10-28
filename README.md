@@ -26,7 +26,7 @@
 const hwinkdev = {
     pronouns: "He" | "Him",
     code: ["JavaScript", "TypeScript", "HTML", "CSS"],
-    askMeAbout: ["web developer", "tech", "app dev", "UI/UX"],
+    askMeAbout: ["web dev", "tech", "app dev", "UI/UX"],
     technologies: {
         frontEnd: {
             js: ["React", "Redux", "Vue.js"],
@@ -93,21 +93,13 @@ const hwinkdev = {
 
 ## 📊 GitHub Statistics
 
-<div align="center" style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=hwink09&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=61DAFB&icon_color=61DAFB&text_color=FFFFFF&rank_icon=github&include_all_commits=true" 
-    alt="GitHub Stats" 
-    height="180px" 
-  />
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwink09&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=61DAFB&text_color=FFFFFF&langs_count=8&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda" 
-    alt="Top Languages" 
-    height="180px" 
-  />
+<div align="center">
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hwink09&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=61DAFB&icon_color=61DAFB&text_color=FFFFFF&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
+  <!-- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hwink09&theme=react&hide_border=true&background=1F222E&stroke=61DAFB&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak" /> -->
 </div>
 
 <div align="center">
-  <!-- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hwink09&theme=react&hide_border=true&background=1F222E&stroke=61DAFB&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak" /> -->
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwink09&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=61DAFB&text_color=FFFFFF&langs_count=8&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda" alt="Top Languages" />
   <!-- <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=hwink09&theme=react-dark&hide_border=true&bg_color=1F222E&color=61DAFB&line=61DAFB&point=FFFFFF" alt="Contribution Graph" /> -->
 </div>
 
