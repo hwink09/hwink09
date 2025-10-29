@@ -42,15 +42,6 @@ const hwinkdev = {
     funFact: "I debug with console.log() and I'm not ashamed! 😄"
 };
 ```
-
-<br>
-
-💡 **Passionate** about creating clean, efficient code and beautiful user interfaces  
-🌱 **Currently learning** advanced React patterns and cloud technologies  
-🎯 **Goal for 2025:** Contribute more to open-source projects and master full-stack development  
-💬 **Ask me about** JavaScript, React, Vue, or anything web development related  
-⚡ **Fun fact:** When I'm not coding, you can find me exploring new tech or sipping coffee ☕
-
 ---
 
 ## 🛠️ Tech Stack
