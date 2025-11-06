@@ -13,9 +13,9 @@
   <a href="https://github.com/hwink09">
     <img src="https://komarev.com/ghpvc/?username=hwink09&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
   </a>
-  <a href="https://github.com/hwink09?tab=followers">
+  <!-- <a href="https://github.com/hwink09?tab=followers">
     <img src="https://img.shields.io/github/followers/hwink09?label=Followers&style=social" alt="followers" />
-  </a>
+  </a> -->
 </p>
 
 ---
@@ -24,23 +24,24 @@
 
 ```javascript
 const hwinkdev = {
-    pronouns: "He" | "Him",
-    code: ["JavaScript", "TypeScript", "HTML", "CSS"],
-    askMeAbout: ["web dev", "tech", "app dev", "UI/UX"],
-    technologies: {
-        frontEnd: {
-            js: ["React", "Redux", "Vue.js"],
-            css: ["Tailwind", "Bootstrap", "Sass"]
-        },
-        backEnd: {
-            js: ["Node.js", "Express"],
-        },
-        databases: ["MongoDB", "Firebase"],
-        tools: ["Git", "VS Code", "ESLint", "WordPress"]
+  pronouns: "He" | "Him",
+  code: ["JavaScript", "TypeScript", "HTML", "CSS (and chaos)"],
+  askMeAbout: ["web dev", "tech", "app dev", "UI/UX", "why my code worked once and never again"],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Redux", "Vue.js (when React gets moody)"],
+      css: ["Tailwind (aka magic)", "Bootstrap", "Sass (still fighting with it)"]
     },
-    currentFocus: "Building responsive and performant web applications",
-    funFact: "I debug with console.log() and I'm not ashamed! 😄"
+    backEnd: {
+      js: ["Node.js", "Express", "Occasional screaming at APIs"]
+    },
+    databases: ["MongoDB", "Firebase", "That one JSON file I swear is temporary"],
+    tools: ["Git (panic pushing)", "VS Code", "ESLint (my frenemy)", "WordPress (don’t judge me)"]
+  },
+  currentFocus: "Turning coffee into code and bugs into features ☕🐛✨",
+  funFact: "I debug with console.log(), stackoverflow, and pure hope. 😄"
 };
+
 ```
 ---
 
