@@ -24,22 +24,22 @@
 
 ```javascript
 const hwinkdev = {
-  pronouns: "He" | "Him",
-  code: ["JavaScript", "TypeScript", "HTML", "CSS (and chaos)"],
-  askMeAbout: ["web dev", "tech", "app dev", "UI/UX", "why my code worked once and never again"],
+  pronouns: "He/Him",
+  code: ["JavaScript", "TypeScript", "HTML", "CSS"],
+  askMeAbout: ["Web dev", "Frontend", "Backend", "UI/UX"],
   technologies: {
     frontEnd: {
-      js: ["React", "Redux", "Vue.js (when React gets moody)"],
-      css: ["Tailwind (aka magic)", "Bootstrap", "Sass (still fighting with it)"]
+      js: ["React", "Redux"],
+      styling: ["Tailwind", "Bootstrap", "Sass"]
     },
     backEnd: {
-      js: ["Node.js", "Express", "Occasional screaming at APIs"]
+      js: ["Node.js", "Express"]
     },
-    databases: ["MongoDB", "Firebase", "That one JSON file I swear is temporary"],
-    tools: ["Git (panic pushing)", "VS Code", "ESLint (my frenemy)", "WordPress (don’t judge me)"]
+    databases: ["MongoDB", "Firebase"],
+    tools: ["Git", "VS Code", "ESLint", "WordPress"]
   },
-  currentFocus: "Turning coffee into code and bugs into features ☕🐛✨",
-  funFact: "I debug with console.log(), stackoverflow, and pure hope. 😄"
+  currentFocus: "Building scalable applications and leveling up daily.",
+  funFact: "90% bugs are solved by console.log() and faith ☕🐛"
 };
 
 ```
