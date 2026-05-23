@@ -83,7 +83,7 @@ const hwinkdev = {
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
-  <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" alt="WordPress" />
+  
 </p>
 
 ---
@@ -91,16 +91,7 @@ const hwinkdev = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hwink09&theme=github_dark" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=hwink09&theme=react&hide_border=true&background=1F222E&stroke=61DAFB&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hwink09&theme=algolia&no-frame=true&no-bg=true&row=1&column=7" alt="GitHub Trophies" />
+  <img width="30%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hwink09&theme=github_dark" alt="GitHub Stats" />
 </div>
 
 ---
