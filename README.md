@@ -26,28 +26,30 @@
 const hwinkdev = {
   pronouns: "He/Him",
   code: ["JavaScript", "TypeScript", "HTML", "CSS"],
-  askMeAbout: ["Web dev", "Frontend", "Backend", "UI/UX"],
+  askMeAbout: ["Web Development", "Frontend", "Backend", "UI/UX"],
   technologies: {
     frontEnd: {
-      js: ["React", "Redux"],
-      styling: ["Tailwind", "Bootstrap", "Sass"]
+      js: ["React", "Zustand", "TanStack Query"],
+      styling: ["Tailwind CSS", "Bootstrap", "shadcn/ui", "Sass"],
     },
     backEnd: {
-      js: ["Node.js", "Express"]
+      js: ["Node.js", "Express.js"],
     },
-    databases: ["MongoDB", "Firebase"],
-    tools: ["Git", "VS Code", "ESLint", "WordPress"]
+    databases: ["MongoDB", "PostgreSQL"],
+    tools: ["Git", "VS Code", "ESLint", "Prettier"],
   },
-  currentFocus: "Building scalable applications and leveling up daily.",
-  funFact: "90% bugs are solved by console.log() and faith ☕🐛"
+  currentFocus:
+    "Building scalable full-stack applications and improving every day.",
+  funFact: "Turning coffee ☕ into scalable web apps and debugging at 2AM 🐛",
 };
-
 ```
+
 ---
 
 ## 🛠️ Tech Stack
 
 ### Languages
+
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -56,6 +58,7 @@ const hwinkdev = {
 </p>
 
 ### Frontend Development
+
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
@@ -66,6 +69,7 @@ const hwinkdev = {
 </p>
 
 ### Backend Development
+
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
@@ -74,6 +78,7 @@ const hwinkdev = {
 </p>
 
 ### Tools & Others
+
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
@@ -86,13 +91,8 @@ const hwinkdev = {
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hwink09&show_icons=true&theme=react&hide_border=true&bg_color=1F222E&title_color=61DAFB&icon_color=61DAFB&text_color=FFFFFF&rank_icon=github&include_all_commits=true" alt="GitHub Stats" />
-  <!-- <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=hwink09&theme=react&hide_border=true&background=1F222E&stroke=61DAFB&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB" alt="GitHub Streak" /> -->
-</div>
-
-<div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hwink09&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=61DAFB&text_color=FFFFFF&langs_count=8&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda" alt="Top Languages" />
-  <!-- <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=hwink09&theme=react-dark&hide_border=true&bg_color=1F222E&color=61DAFB&line=61DAFB&point=FFFFFF" alt="Contribution Graph" /> -->
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hwink09&theme=github_dark" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com?user=hwink09&theme=react&hide_border=true&background=1F222E&stroke=61DAFB&ring=61DAFB&fire=61DAFB&currStreakLabel=61DAFB&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF" alt="GitHub Streak" />
 </div>
 
 ---
@@ -106,6 +106,7 @@ const hwinkdev = {
 ---
 
 ## 💭 Quote of the Day
+
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Random Dev Quote" />
 </div>
