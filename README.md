@@ -29,11 +29,7 @@ const hwinkdev = {
 ## 🛠 Technologies & Tools
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=ts,js,html,css,nextjs,react,tailwind,redux,sass,nestjs,nodejs,express,postgres,redis,mongodb,firebase,docker,git,vscode,postman&perline=10&theme=dark" />
-    <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=ts,js,html,css,nextjs,react,tailwind,redux,sass,nestjs,nodejs,express,postgres,redis,mongodb,firebase,docker,git,vscode,postman&perline=10&theme=light" />
-    <img alt="Technologies and Tools" src="https://skillicons.dev/icons?i=ts,js,html,css,nextjs,react,tailwind,redux,sass,nestjs,nodejs,express,postgres,redis,mongodb,firebase,docker,git,vscode,postman&perline=10" />
-  </picture>
+  <img src="https://skillicons.dev/icons?i=ts,js,html,css,nextjs,react,tailwind,redux,sass,nestjs,nodejs,express,postgres,redis,mongodb,firebase,docker,git,vscode,postman&perline=10" alt="Technologies and Tools" />
 </p>
 
 ---
