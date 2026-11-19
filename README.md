@@ -37,8 +37,8 @@ const hwinkdev = {
 ## 🔥 GitHub Stats
 
 <p align="center">
-  <img height="120" src="https://github-readme-stats-chi-indol.vercel.app/api/top-langs/?username=hwink09&layout=compact&langs_count=8&theme=react" alt="Most Used Languages" />
-  <img height="120" src="https://github-readme-stats-chi-indol.vercel.app/api?username=hwink09&show_icons=true&rank_icon=github&theme=react&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+  <img height="150" src="https://github-stats-extended.vercel.app/api/top-langs/?username=hwink09&layout=compact&langs_count=8&theme=react" alt="Most Used Languages" />
+  <img height="150" src="https://github-stats-extended.vercel.app/api?username=hwink09&show_icons=true&rank_icon=github&theme=react&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 ---
