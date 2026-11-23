@@ -20,7 +20,7 @@ const hwinkdev = {
     devOpsAndTools: ['Docker', 'Git', 'VS Code', 'Postman', 'ESLint', 'Prettier']
   },
   currentFocus: 'Building scalable full-stack applications and improving every day.',
-  funFact: 'Turning coffee ☕ into scalable web apps and debugging at 2 AM 🐛'
+  funFact: 'Turning coffee ☕ into scalable web apps and debugging at 2AM 🐛'
 }
 ```
 
